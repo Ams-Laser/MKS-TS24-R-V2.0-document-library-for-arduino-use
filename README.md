@@ -3,8 +3,9 @@ Docunet and links to files for making it work with arduino
 
 
 LCD specs:
-Taidacent 240*320 ST7789v 40 Pin SPI MCU RGB 2.4" TFT LCD Display 2.4 Inch ST7789 Touch Color Screen
- Resolution 240XRGBX320
+Taidacent 240*320 ST7789v 40 Pin SPI MCU RGB
+2.4" TFT LCD Display 2.4 Inch ST7789 Touch Color Screen
+Resolution 240XRGBX320
 Driver chip ST7789V
 MCU parallel port 18080 40PIN plug-in type (8/16 bit compatible)
 Interface type MCU serial port SPI 40PIN plug-in type (3/4 line compatible)
